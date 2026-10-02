@@ -115,6 +115,7 @@ Contributions welcome! See [Contributing](#contributing) below.
 
 ## Apps & Tools
 
+- [Exotic Atlas](https://exotic-atlas.pages.dev/) — compare reptile care requirements, setup needs and estimated first-year costs before choosing a species.
 - [Exotic Reptile Care](https://exoticreptilecare.com) — iOS app for tracking feeding, shedding, weight, health, breeding, and more. 24 species care guides, AI species ID, smart reminders. Free to download.
 - [MorphMarket](https://www.morphmarket.com/) — browse and compare reptile prices and availability
 - [World of Ball Pythons](https://www.worldofballpythons.com/) — morph database and genetics calculator
